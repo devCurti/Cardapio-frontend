@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=WHruc3_2z68
 - ReactJS
 - Axios
 
-
-- Banco de dados: Postgresql
+## Banco de dados
+- Postgresql
 
 - Repositório backend: https://github.com/devCurti/Cardapio-backend
